@@ -9,7 +9,7 @@ from calculator import calculating
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("7363756493:AAHzO8_Xs1O1XFOoYBNWmnbdI1AwLzxvj44")
+bot = telebot.TeleBot("YOUR-TELEBOT-TOKEN")
 user_status = {}
 previous_user_status = {}
 info = [0, 0, 0, 0, 0]
